@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-'''
+```
 map.html
 <html>
 <head>
@@ -167,7 +167,7 @@ STAG Cricket ground is known for its high standards.</font>
 </p>
 </body>
 </html>
-'''
+```
 
 ## OUTPUT
 ![alt text](output.png)
